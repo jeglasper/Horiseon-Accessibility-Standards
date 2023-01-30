@@ -74,7 +74,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -99,7 +99,7 @@ p {
 }
 
 /*Aside Layout & Styling*/
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
