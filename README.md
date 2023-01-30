@@ -6,7 +6,7 @@
 My motivation for this project is to improve the accessibility standards and to help the marketing agency optimize their site for search engines. This project solves access issues for people who may have a disability that limits how they can interact with the marketing agency's site. Additionally, this project consolidates the CSS selectors and properties while making the overall code less reliant on class selectors by transitioning the HTML to using semantic HTML structure.
 
 ### What I Learned Doing This Project
-While doing this project, I learned how to transition an HTML document to using semantic structure in a way that keeps the integrity of the HTML without being reliant on the CSS style and positioning elements. Lastly, I learned how to consolidate CSS selectors and properties, clean and update class selectors within HTML, and properly leave comments within my CSS to describe how the styling affects the HTML.
+While doing this project, I learned how to transition an HTML document to using semantic structure in a way that keeps the integrity of the HTML without being reliant on the CSS style and positioning elements. I also learned how to consolidate CSS selectors and properties, clean and update class selectors within HTML, and properly leave comments within my CSS to describe how the styling affects the HTML.
 
 ## Installation
 
