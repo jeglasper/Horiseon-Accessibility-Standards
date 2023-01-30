@@ -4,11 +4,12 @@
     margin: 0;
 }
 
+/*Body Element - Adds Background Color*/
 body {
     background-color: #d9dcd6;
 }
 
-/*Header Layout & Styling*/
+/*Header Element - Layout & Styling*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -26,7 +27,7 @@ header h1 {
     color: #d9dcd6;
 }
 
-/*Header Navigation Links Layout & Styling*/
+/*Header Element - Navigation Links Layout & Styling*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -59,16 +60,18 @@ a {
     background-position: center;
 }
 
-/*Main Layout & Styling*/
+/*Main Element - Layout & Styling*/
 p {
     font-size: 16px;
 }
 
+/*Picture Appears on Left Side of Box*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*Picture Appears on Right Side of Box*/
 .float-right {
     float: right;
     margin-left: 25px;
